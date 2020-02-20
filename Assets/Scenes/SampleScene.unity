@@ -478,6 +478,7 @@ MonoBehaviour:
   HoloLensCamera: {fileID: 208567617}
   TestSphere: {fileID: 6509834091230448246, guid: 85e9c8153cc5deb4a87dfae69e3ff636,
     type: 3}
+  cube_button: {fileID: 593838094}
   avatar_instantiated: 0
   cube_selected: 0
   location: 0

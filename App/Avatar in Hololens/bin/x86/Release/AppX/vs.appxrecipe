@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-02-20T03:39:56.240</Modified>
+      <Modified>2020-02-21T03:12:46.126</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\bin\x86\Release\Avatar in Hololens.exe">
       <PackagePath>entrypoint\Avatar in Hololens.exe</PackagePath>
-      <Modified>2020-02-20T03:39:42.703</Modified>
+      <Modified>2020-02-21T03:12:33.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -536,11 +536,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2020-02-20T03:39:05.288</Modified>
+      <Modified>2020-02-21T03:11:16.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2020-02-20T03:38:55.635</Modified>
+      <Modified>2020-02-21T03:11:06.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -611,15 +611,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2020-02-20T03:38:55.077</Modified>
+      <Modified>2020-02-21T03:11:06.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2020-02-20T03:38:54.278</Modified>
+      <Modified>2020-02-21T03:11:05.252</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2020-02-20T03:38:52.417</Modified>
+      <Modified>2020-02-21T03:11:03.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -627,39 +627,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2020-02-20T03:38:55.072</Modified>
+      <Modified>2020-02-21T03:11:06.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2020-02-20T03:38:54.368</Modified>
+      <Modified>2020-02-21T03:11:05.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2020-02-20T03:38:54.668</Modified>
+      <Modified>2020-02-21T03:11:05.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2020-02-20T03:38:54.905</Modified>
+      <Modified>2020-02-21T03:11:06.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2020-02-20T03:38:52.408</Modified>
+      <Modified>2020-02-21T03:11:03.501</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2020-02-20T03:38:54.664</Modified>
+      <Modified>2020-02-21T03:11:05.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2020-02-20T03:38:54.896</Modified>
+      <Modified>2020-02-21T03:11:06.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2020-02-20T03:39:05.231</Modified>
+      <Modified>2020-02-21T03:11:16.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2020-02-20T03:39:05.235</Modified>
+      <Modified>2020-02-21T03:11:16.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -667,251 +667,251 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-02-20T03:39:43.193</Modified>
+      <Modified>2020-02-21T03:12:33.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.878</Modified>
+      <Modified>2020-02-21T03:12:44.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.894</Modified>
+      <Modified>2020-02-21T03:12:44.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.StreamingModule.dll">
       <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.908</Modified>
+      <Modified>2020-02-21T03:12:44.138</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.925</Modified>
+      <Modified>2020-02-21T03:12:44.154</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.SubstanceModule.dll">
       <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.946</Modified>
+      <Modified>2020-02-21T03:12:44.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.969</Modified>
+      <Modified>2020-02-21T03:12:44.198</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.990</Modified>
+      <Modified>2020-02-21T03:12:44.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.TextCoreModule.dll">
       <PackagePath>UnityEngine.TextCoreModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.009</Modified>
+      <Modified>2020-02-21T03:12:44.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.030</Modified>
+      <Modified>2020-02-21T03:12:44.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.052</Modified>
+      <Modified>2020-02-21T03:12:44.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.124</Modified>
+      <Modified>2020-02-21T03:12:44.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.157</Modified>
+      <Modified>2020-02-21T03:12:44.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.184</Modified>
+      <Modified>2020-02-21T03:12:44.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.208</Modified>
+      <Modified>2020-02-21T03:12:44.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.229</Modified>
+      <Modified>2020-02-21T03:12:44.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.245</Modified>
+      <Modified>2020-02-21T03:12:44.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.262</Modified>
+      <Modified>2020-02-21T03:12:44.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.283</Modified>
+      <Modified>2020-02-21T03:12:44.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.310</Modified>
+      <Modified>2020-02-21T03:12:44.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.328</Modified>
+      <Modified>2020-02-21T03:12:44.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.347</Modified>
+      <Modified>2020-02-21T03:12:44.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.VFXModule.dll">
       <PackagePath>UnityEngine.VFXModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.368</Modified>
+      <Modified>2020-02-21T03:12:44.572</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.392</Modified>
+      <Modified>2020-02-21T03:12:44.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.423</Modified>
+      <Modified>2020-02-21T03:12:44.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.446</Modified>
+      <Modified>2020-02-21T03:12:44.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.466</Modified>
+      <Modified>2020-02-21T03:12:44.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.489</Modified>
+      <Modified>2020-02-21T03:12:44.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.517</Modified>
+      <Modified>2020-02-21T03:12:44.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.538</Modified>
+      <Modified>2020-02-21T03:12:44.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.559</Modified>
+      <Modified>2020-02-21T03:12:44.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.590</Modified>
+      <Modified>2020-02-21T03:12:44.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.613</Modified>
+      <Modified>2020-02-21T03:12:44.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.630</Modified>
+      <Modified>2020-02-21T03:12:44.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.656</Modified>
+      <Modified>2020-02-21T03:12:44.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:54.679</Modified>
+      <Modified>2020-02-21T03:12:44.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.171</Modified>
+      <Modified>2020-02-21T03:12:45.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.291</Modified>
+      <Modified>2020-02-21T03:12:45.208</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.306</Modified>
+      <Modified>2020-02-21T03:12:45.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2020-02-20T03:38:59.372</Modified>
+      <Modified>2020-02-21T03:11:10.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.325</Modified>
+      <Modified>2020-02-21T03:12:45.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.346</Modified>
+      <Modified>2020-02-21T03:12:45.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.362</Modified>
+      <Modified>2020-02-21T03:12:45.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.396</Modified>
+      <Modified>2020-02-21T03:12:45.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.421</Modified>
+      <Modified>2020-02-21T03:12:45.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.436</Modified>
+      <Modified>2020-02-21T03:12:45.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.LocalizationModule.dll">
       <PackagePath>UnityEngine.LocalizationModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.452</Modified>
+      <Modified>2020-02-21T03:12:45.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.481</Modified>
+      <Modified>2020-02-21T03:12:45.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.505</Modified>
+      <Modified>2020-02-21T03:12:45.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.533</Modified>
+      <Modified>2020-02-21T03:12:45.441</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.556</Modified>
+      <Modified>2020-02-21T03:12:45.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.600</Modified>
+      <Modified>2020-02-21T03:12:45.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.643</Modified>
+      <Modified>2020-02-21T03:12:45.548</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.709</Modified>
+      <Modified>2020-02-21T03:12:45.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.740</Modified>
+      <Modified>2020-02-21T03:12:45.643</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.787</Modified>
+      <Modified>2020-02-21T03:12:45.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2020-02-20T03:39:55.834</Modified>
+      <Modified>2020-02-21T03:12:45.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.659</Modified>
+      <Modified>2020-02-21T03:12:43.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Unity.TextMeshPro.dll">
       <PackagePath>Unity.TextMeshPro.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.776</Modified>
+      <Modified>2020-02-21T03:12:44.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Unity.Analytics.DataPrivacy.dll">
       <PackagePath>Unity.Analytics.DataPrivacy.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.834</Modified>
+      <Modified>2020-02-21T03:12:44.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\Unity.XR.WindowsMR.dll">
       <PackagePath>Unity.XR.WindowsMR.dll</PackagePath>
-      <Modified>2020-02-20T03:39:53.855</Modified>
+      <Modified>2020-02-21T03:12:44.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\soumy\Unity Projects\Avatar in Hololens\App\Avatar in Hololens\bin\x86\Release\Core\Avatar in Hololens.exe">
       <PackagePath>Avatar in Hololens.exe</PackagePath>
-      <Modified>2020-02-20T03:39:56.231</Modified>
+      <Modified>2020-02-21T03:12:46.117</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

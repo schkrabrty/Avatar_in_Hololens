@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Tapping_Manager : MonoBehaviour
 {
-    public Spawner spawner;
+    public Spawning_manager spawner;
     private Avatar_animation_manager aam;
     private bool configuration_done = false;
 
@@ -18,6 +18,13 @@ public class Tapping_Manager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Quaternion toQuat = Camera.main.transform.localRotation;
+        toQuat.x = 0;
+        toQuat.z = 0;
+
+        // Rotate this object's parent object to face the user.
+        this.transform.rotation = toQuat;
+
         if (spawner.avatar_instantiated == true && configuration_done == false)
         {
             aam = GameObject.Find("Avatar Variant(Clone)").GetComponent<Avatar_animation_manager>();

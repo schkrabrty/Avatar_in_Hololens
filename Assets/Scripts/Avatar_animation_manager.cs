@@ -5,10 +5,10 @@ using UnityEngine;
 public class Avatar_animation_manager : MonoBehaviour
 {
     public Animator animator;
-    private Vector3 positive_offset = new Vector3(0.0f, 0.0f, /*1.0f*/3.0f);
-    private Vector3 negative_offset = new Vector3(0.0f, 0.0f, /*-1.0f*/ -3.0f);
+    private Vector3 positive_offset = new Vector3(0.0f, 0.0f, 3.0f);
+    private Vector3 negative_offset = new Vector3(0.0f, 0.0f, -3.0f);
     private Vector3 forward_highest_distance_for_avatar, backward_highest_distance_for_avatar;
-    Spawner s = new Spawner();
+    private Spawning_manager s;
     private bool avatar_rotated = false;
     [HideInInspector]
     public bool configuration_done = false;
@@ -17,7 +17,7 @@ public class Avatar_animation_manager : MonoBehaviour
     void Start()
     {
         animator = this.gameObject.GetComponent<Animator>();
-        s = GameObject.Find("Spawner").GetComponent<Spawner>();
+        s = GameObject.Find("Spawner").GetComponent<Spawning_manager>();
     }
 
     // Update is called once per frame
